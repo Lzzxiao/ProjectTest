@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-This is the add jsp page. look the function of branches. why don't change
+This is the add jsp page. dev changed.
 </body>
 </html>
