@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-This is the add jsp page. part of contents are changed,hahahaha.
+This is the add jsp page. look the function of branches
 </body>
 </html>
