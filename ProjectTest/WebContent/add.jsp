@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-This is the add jsp page.second change
-third change
+This is the add jsp page.want to add to remote git
 </body>
 </html>
