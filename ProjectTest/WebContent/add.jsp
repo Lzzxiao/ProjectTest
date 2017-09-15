@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-This is the add jsp page.add to remote git
+This is the add jsp page. part of contents are changed.
 </body>
 </html>
